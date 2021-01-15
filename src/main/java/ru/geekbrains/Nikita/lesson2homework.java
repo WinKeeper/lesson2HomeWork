@@ -47,6 +47,11 @@ public class lesson2homework {
             }
             System.out.println();
         }
+
+        //Задание №5
+//        public static void
+
     }
 }
+
 
